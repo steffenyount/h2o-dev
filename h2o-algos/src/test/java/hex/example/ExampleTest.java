@@ -1,7 +1,7 @@
 package hex.example;
 
-import org.junit.*;
-
+import org.junit.BeforeClass;
+import org.junit.Test;
 import water.TestUtil;
 import water.fvec.Frame;
 
